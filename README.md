@@ -5,7 +5,7 @@ tip the creator with 0.0001 ETH per like.
 
 ## Live Deployment
 
-- **Frontend:** <YOUR_VERCEL_URL>
+- **Frontend:** https://tip-post.vercel.app/
 - **Contract (Sepolia):** 0xECCFBB989985b64165d541ba50822E4380203995
 - **Etherscan:** https://sepolia.etherscan.io/address/0xECCFBB989985b64165d541ba50822E4380203995
 
@@ -21,6 +21,10 @@ npm run dev
 - https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 - https://sepoliafaucet.com
 - https://www.infura.io/faucet/sepolia
+
+## Testing
+<img width="2108" height="478" alt="image" src="https://github.com/user-attachments/assets/6bd2ba08-6ca9-4176-ae11-6bd27c094154" />
+
 
 ## Tech Stack
 
