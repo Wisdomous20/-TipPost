@@ -4,7 +4,7 @@ import ABI from "../abi/TipPost.json";
 import type { Post, TxState } from "../types";
 
 const CONTRACT_ADDRESS = import.meta.env.VITE_CONTRACT_ADDRESS || "";
-const LIKE_COST = parseEther("0.0001");
+const LIKE_COST = parseEther("0.001");
 
 export function useContract(
   provider: BrowserProvider | null,
