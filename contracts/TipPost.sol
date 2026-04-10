@@ -2,7 +2,7 @@
 pragma solidity ^0.8.20;
 
 contract TipPost {
-    uint256 public constant LIKE_COST = 0.0001 ether;
+    uint256 public constant LIKE_COST = 0.001 ether;
     uint256 public postCount;
 
     struct Post {
